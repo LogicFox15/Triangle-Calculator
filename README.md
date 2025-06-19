@@ -1,0 +1,1 @@
+This calculator was initially designed with the purpose of obtaining the angles between vertices when using 3d modeling software. By providing valid coordinates, it generates a triangle and provides you with lengths of the opposite, adjacent, and hypotenuse. It also provides angles, and the leghts of the sides used to find the lengths of the main triangle
